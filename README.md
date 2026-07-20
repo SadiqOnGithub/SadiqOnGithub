@@ -16,6 +16,18 @@ Building things, breaking things, learning from both.
 
 ---
 
+### Open Source Contributions
+
+Proud contributor to projects used by millions:
+
+| Project | What it is | Weekly Downloads |
+|---------|-----------|-----------------|
+| [ws](https://github.com/websockets/ws) | WebSocket client & server for Node.js | **235M+** |
+| [mongoose](https://github.com/Automattic/mongoose) | MongoDB object modeling for Node.js | **6.2M+** |
+| [zed](https://github.com/zed-industries/zed) | High-performance multiplayer code editor | **50K+ GitHub stars** |
+
+---
+
 ### Featured Projects
 
 | Project | What it does |
@@ -29,6 +41,12 @@ Building things, breaking things, learning from both.
 | [codecrafters-grep-rust](https://github.com/SadiqOnGithub/codecrafters-grep-rust) | Grep from scratch in Rust |
 | [codecrafters-git-javascript](https://github.com/SadiqOnGithub/codecrafters-git-javascript) | Git implementation from scratch |
 | [codecrafters-http-server-javascript](https://github.com/SadiqOnGithub/codecrafters-http-server-javascript) | HTTP server from scratch |
+
+---
+
+### Exploring
+
+- **Git LFS** — Experimenting with Large File Storage for versioning big files efficiently
 
 ---
 
