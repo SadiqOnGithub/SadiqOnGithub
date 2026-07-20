@@ -46,7 +46,7 @@ Proud contributor to projects used by millions:
 
 ### Exploring
 
-- **Git LFS** — Experimenting with Large File Storage for versioning big files efficiently
+- **Linux From Scratch** — Building a complete Linux system from source code, step by step
 
 ---
 
