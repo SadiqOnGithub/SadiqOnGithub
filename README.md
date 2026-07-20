@@ -1,74 +1,190 @@
-# Hey, I'm Syed Sadiq Ali 👋
+# Hi, I'm Syed Sadiq Ali 👋
 
-Building things, breaking things, learning from both.
+I enjoy understanding how computers work—from operating systems and networking to distributed systems and developer tooling.
 
----
+My philosophy is simple:
 
-### What I Do
+> Learn deeply. Build from first principles. Share what I learn.
 
-**DevOps & Infrastructure** — Automating the boring stuff with Ansible, Docker, and Kubernetes. Building scripts and playbooks that save time and sanity.
-
-**Rust** — Currently on a journey from `cargo new` to `cargo deploy`. Writing CLIs, parsers, and low-level tools. One borrow checker fight at a time.
-
-**Web Development** — React, Node.js, Express, Next.js. Full-stack when needed, deep dives when curious.
-
-**IoT & Hardware** — ESP32 Arduino projects — Bluetooth, GPS, ESC motors, RC control. Making circuits do things.
+Most of my projects are experiments to understand how things actually work rather than simply using them.
 
 ---
 
-### Open Source Contributions
+## Current Focus
 
-Proud contributor to projects used by millions:
-
-| Project | What it is | Weekly Downloads |
-|---------|-----------|-----------------|
-| [ws](https://github.com/websockets/ws) | WebSocket client & server for Node.js | **235M+** |
-| [mongoose](https://github.com/Automattic/mongoose) | MongoDB object modeling for Node.js | **6.2M+** |
-| [zed](https://github.com/zed-industries/zed) | High-performance multiplayer code editor | **50K+ GitHub stars** |
-
----
-
-### Featured Projects
-
-| Project | What it does |
-|---------|-------------|
-| [arduino-esp32-projects](https://github.com/SadiqOnGithub/arduino-esp32-projects) | 15 ESP32 projects — LED, Bluetooth, WiFi, GPS, ESC motor, RC control |
-| [http-server-javascript](https://github.com/SadiqOnGithub/http-server-javascript) | Low-level HTTP server from scratch — manual parsing, routing, compression |
-| [node-gold-price-scraper](https://github.com/SadiqOnGithub/node-gold-price-scraper) | Compares gold prices across Ajio, MMTC-Pamp, Amazon India, Mynta |
-| [dotfiles](https://github.com/SadiqOnGithub/dotfiles) | Linux dotfiles managed with GNU Stow |
-| [toy_tmux](https://github.com/SadiqOnGithub/toy_tmux) | Rust implementation of tmux's config system — parsing, key bindings, REPL |
-| [template-express-base](https://github.com/SadiqOnGithub/template-express-base) | Production-ready Express template with auth, validation, error handling |
-| [codecrafters-grep-rust](https://github.com/SadiqOnGithub/codecrafters-grep-rust) | Grep from scratch in Rust |
-| [codecrafters-git-javascript](https://github.com/SadiqOnGithub/codecrafters-git-javascript) | Git implementation from scratch |
-| [codecrafters-http-server-javascript](https://github.com/SadiqOnGithub/codecrafters-http-server-javascript) | HTTP server from scratch |
+- Linux & Linux Internals
+- Rust
+- Infrastructure Engineering
+- DevOps & Cloud
+- Kubernetes
+- Networking
+- System Design
+- Data Modeling
+- High Performance APIs
+- Distributed Systems
+- Observability
 
 ---
 
-### Exploring
+## Things I Build
 
-- **Linux From Scratch** — Building a complete Linux system from source code, step by step
+### Infrastructure
 
----
+Learning to build reliable infrastructure through
 
-### Currently Learning
-
-- Rust — systems programming, CLI tools, memory management
-- Kubernetes — orchestrating containers at scale
-- Infrastructure automation — Ansible playbooks, Docker Compose stacks
-
----
-
-### Tech I Work With
-
-```
-Languages:    Rust, JavaScript, TypeScript, Bash
-Backend:      Node.js, Express, Next.js
-Frontend:     React, Vite, Tailwind CSS
-DevOps:       Docker, Kubernetes, Ansible, Git
-Database:     MongoDB, Mongoose
-Hardware:     ESP32, Arduino
-```
+- Docker
+- Kubernetes
+- Linux
+- Nginx
+- CI/CD
+- Infrastructure automation
+- Self-hosting
+- Server administration
 
 ---
 
-*"The best way to learn is to build."*
+### Systems Programming
+
+Using Rust to understand
+
+- Memory management
+- Concurrency
+- Async runtimes
+- Parsers
+- CLIs
+- Developer tooling
+- Performance
+
+---
+
+### Backend Engineering
+
+Building backend systems with
+
+- Node.js
+- Express
+- MongoDB
+- REST APIs
+- Authentication
+- Data Modeling
+
+Performance, maintainability, and simplicity matter more to me than adding more frameworks.
+
+---
+
+### Linux
+
+Linux isn't just my operating system—it's something I'm actively studying.
+
+Current areas of exploration:
+
+- Linux From Scratch
+- Arch Linux
+- NixOS
+- Home Manager
+- i3
+- Neovim
+- Shell scripting
+
+---
+
+## Open Source
+
+Contributed to projects including
+
+- ws
+- mongoose
+- zed
+
+I'm interested in contributing to developer tooling, infrastructure, and systems software.
+
+---
+
+## Featured Projects
+
+Projects that helped me understand computers better
+
+- HTTP Server from scratch
+- Git from scratch
+- Grep from scratch
+- Rust tmux configuration parser
+- Express production template
+- ESP32 hardware experiments
+- Linux dotfiles
+- Gold price scraper
+
+Every repository is an attempt to understand one more abstraction layer.
+
+---
+
+## Currently Learning
+
+- Rust
+- Kubernetes
+- Linux Internals
+- Networking
+- Distributed Systems
+- Data Modeling
+- Cloud Infrastructure
+- Observability
+
+---
+
+## Long-term Goal
+
+Build infrastructure and backend systems that are
+
+- Reliable
+- Observable
+- Maintainable
+- Scalable
+- Fast
+
+Ultimately, I'm working toward building a consultancy focused on infrastructure engineering, DevOps, system architecture, and performance optimization.
+
+---
+
+## Tech
+
+Languages
+
+- Rust
+- JavaScript
+- TypeScript
+- Bash
+
+Backend
+
+- Node.js
+- Express
+- REST APIs
+
+Frontend
+
+- React
+- Next.js
+- Vite
+
+Infrastructure
+
+- Linux
+- Docker
+- Kubernetes
+- Git
+- Nginx
+- CI/CD
+
+Database
+
+- MongoDB
+
+Hardware
+
+- ESP32
+- Arduino
+
+---
+
+> I don't want to know only *how* to use technology.
+>
+> I want to understand *why* it works.
