@@ -1,190 +1,79 @@
 # Hi, I'm Syed Sadiq Ali 👋
 
-I enjoy understanding how computers work—from operating systems and networking to distributed systems and developer tooling.
+I enjoy peeling away abstraction layers.
 
-My philosophy is simple:
+Every project I build begins with the same question:
 
-> Learn deeply. Build from first principles. Share what I learn.
+> **How does this actually work?**
 
-Most of my projects are experiments to understand how things actually work rather than simply using them.
+That curiosity has taken me from web development into Linux, networking, infrastructure, distributed systems, developer tooling, and Rust. I am working toward understanding computers across the stack—not only using the tools, but learning why they exist and how they are built.
 
----
-
-## Current Focus
-
-- Linux & Linux Internals
-- Rust
-- Infrastructure Engineering
-- DevOps & Cloud
-- Kubernetes
-- Networking
-- System Design
-- Data Modeling
-- High Performance APIs
-- Distributed Systems
-- Observability
+> **Learn deeply. Build from first principles. Share what you discover.**
 
 ---
 
-## Things I Build
+## What I'm exploring
 
-### Infrastructure
+- 🦀 Rust and systems programming
+- 🐧 Linux, Linux internals, and operating-system concepts
+- 🌐 Computer networking and high-performance APIs
+- ☸ Kubernetes, cloud infrastructure, and platform engineering
+- 🏗️ Distributed systems, data modeling, and observability
+- 🔧 Developer tooling, automation, and self-hosting
 
-Learning to build reliable infrastructure through
+## I learn by building
 
-- Docker
-- Kubernetes
-- Linux
-- Nginx
-- CI/CD
-- Infrastructure automation
-- Self-hosting
-- Server administration
+Reading gives me the vocabulary; implementing gives me the understanding. I use small, focused projects to explore the layers beneath the software I use every day:
 
----
+- An HTTP server from scratch
+- A Git implementation from scratch
+- A Grep implementation in Rust
+- A tmux configuration parser in Rust
+- A production-oriented Express template
+- Linux dotfiles and ESP32 hardware experiments
 
-### Systems Programming
+Every repository is an experiment—and a record of one more layer understood.
 
-Using Rust to understand
+## Featured projects
 
-- Memory management
-- Concurrency
-- Async runtimes
-- Parsers
-- CLIs
-- Developer tooling
-- Performance
+| Project | What I explored |
+| --- | --- |
+| [http-server-javascript](https://github.com/SadiqOnGithub/http-server-javascript) | How an HTTP server works from the socket up |
+| [codecrafters-git-javascript](https://github.com/SadiqOnGithub/codecrafters-git-javascript) | Git's objects, references, and plumbing |
+| [codecrafters-grep-rust](https://github.com/SadiqOnGithub/codecrafters-grep-rust) | Building a command-line search tool in Rust |
+| [toy_tmux](https://github.com/SadiqOnGithub/toy_tmux) | Parsing tmux configuration in Rust |
+| [template-express-base](https://github.com/SadiqOnGithub/template-express-base) | A maintainable, production-ready Express starting point |
+| [dotfiles](https://github.com/SadiqOnGithub/dotfiles) | A Linux setup managed with GNU Stow |
+| [arduino-esp32-projects](https://github.com/SadiqOnGithub/arduino-esp32-projects) | Hardware and embedded-systems experiments |
 
----
+## Learning in public
 
-### Backend Engineering
+I keep my learning visible through projects, experiments, and notes. The thread that connects them is simple: understand the abstraction, then build a small version of it.
 
-Building backend systems with
+Current rabbit holes include Linux From Scratch, Arch Linux, NixOS and Home Manager, i3, Neovim, shell scripting, networking, containers, and Kubernetes.
 
-- Node.js
-- Express
-- MongoDB
-- REST APIs
-- Authentication
-- Data Modeling
+## Open source
 
-Performance, maintainability, and simplicity matter more to me than adding more frameworks.
+I've contributed to projects including [ws](https://github.com/websockets/ws), [mongoose](https://github.com/Automattic/mongoose), and [Zed](https://github.com/zed-industries/zed). I am especially interested in contributing to developer tooling, infrastructure, and systems software.
 
----
+## The direction I'm heading
 
-### Linux
-
-Linux isn't just my operating system—it's something I'm actively studying.
-
-Current areas of exploration:
-
-- Linux From Scratch
-- Arch Linux
-- NixOS
-- Home Manager
-- i3
-- Neovim
-- Shell scripting
-
----
-
-## Open Source
-
-Contributed to projects including
-
-- ws
-- mongoose
-- zed
-
-I'm interested in contributing to developer tooling, infrastructure, and systems software.
-
----
-
-## Featured Projects
-
-Projects that helped me understand computers better
-
-- HTTP Server from scratch
-- Git from scratch
-- Grep from scratch
-- Rust tmux configuration parser
-- Express production template
-- ESP32 hardware experiments
-- Linux dotfiles
-- Gold price scraper
-
-Every repository is an attempt to understand one more abstraction layer.
-
----
-
-## Currently Learning
-
-- Rust
-- Kubernetes
-- Linux Internals
-- Networking
-- Distributed Systems
-- Data Modeling
-- Cloud Infrastructure
-- Observability
-
----
-
-## Long-term Goal
-
-Build infrastructure and backend systems that are
-
-- Reliable
-- Observable
-- Maintainable
-- Scalable
-- Fast
-
-Ultimately, I'm working toward building a consultancy focused on infrastructure engineering, DevOps, system architecture, and performance optimization.
-
----
-
-## Tech
-
-Languages
-
-- Rust
-- JavaScript
-- TypeScript
-- Bash
-
-Backend
-
-- Node.js
-- Express
-- REST APIs
-
-Frontend
-
-- React
-- Next.js
-- Vite
-
-Infrastructure
-
-- Linux
-- Docker
-- Kubernetes
-- Git
-- Nginx
-- CI/CD
-
-Database
-
-- MongoDB
-
+```text
 Hardware
+    ↓
+Operating systems
+    ↓
+Linux & networking
+    ↓
+Infrastructure & containers
+    ↓
+Kubernetes & distributed systems
+    ↓
+Reliable backend engineering
+```
 
-- ESP32
-- Arduino
+I believe understanding these layers helps us build software that is simpler, faster, more observable, and more reliable. Long term, I want to build infrastructure and backend systems—and eventually a consultancy—around that standard.
 
 ---
 
-> I don't want to know only *how* to use technology.
->
-> I want to understand *why* it works.
+> I don't want to know only *how* to use technology. I want to understand *why* it works.
